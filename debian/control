@@ -1,0 +1,13 @@
+Source: thunderbird-solydxk-adjustments
+Section: web
+Priority: optional
+Maintainer: Arjen Balfoort <arjenbalfoort@solydxk.com>
+Build-Depends: debhelper (>= 9)
+  , python3 (>= 3.2)
+X-Python3-Version: >= 3.2
+Standards-Version: 3.9.6
+
+Package: thunderbird-solydxk-adjustments
+Architecture: all
+Depends: thunderbird
+Description: Thunderbird adjustments for SolydXK

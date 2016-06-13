@@ -1,0 +1,203 @@
+thunderbird-solydxk-adjustments (2016.06.11) debian; urgency=low
+
+  * Changed package for local build
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Wed, 11 Jun 2016 11:50:00 +0100
+
+thunderbird-solydxk-adjustments (45.1.1) debian; urgency=low
+
+  * 45.1.1
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Tue, 31 May 2016 05:20:57 -0700
+
+thunderbird-solydxk-adjustments (45.1.0) debian; urgency=low
+
+  * 45.1.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Thu, 12 May 2016 04:30:04 -0700
+
+thunderbird-solydxk-adjustments (45.0) debian; urgency=low
+
+  * 45.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Thu, 14 Apr 2016 04:30:03 -0700
+
+thunderbird-solydxk-adjustments (38.7.2) debian; urgency=low
+
+  * 38.7.2
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Fri, 08 Apr 2016 04:30:03 -0700
+
+thunderbird-solydxk-adjustments (38.7.1-SSL) debian; urgency=low
+
+  * 38.7.1-SSL
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Fri, 25 Mar 2016 04:30:05 -0700
+
+thunderbird-solydxk-adjustments (38.7.0) debian; urgency=low
+
+  * 38.7.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Thu, 17 Mar 2016 04:30:03 -0700
+
+thunderbird-solydxk-adjustments (38.6.0) debian; urgency=low
+
+  * 38.6.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Tue, 16 Feb 2016 04:30:04 -0800
+
+thunderbird-solydxk-adjustments (38.5.1) debian; urgency=low
+
+  * 38.5.1
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Fri, 08 Jan 2016 04:30:04 -0800
+
+thunderbird-solydxk-adjustments (38.5.0) debian; urgency=low
+
+  * 38.5.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Wed, 23 Dec 2015 14:05:39 -0800
+
+thunderbird-solydxk-adjustments (38.4.0) debian; urgency=low
+
+  * 38.4.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Thu, 26 Nov 2015 04:30:04 -0800
+
+thunderbird-solydxk-adjustments (38.3.0.xk4) debian; urgency=low
+
+  * 38.3.0.xk4
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sun, 08 Nov 2015 14:30:47 -0800
+
+thunderbird-solydxk-adjustments (38.3.0.xk3) debian; urgency=low
+
+  * 38.3.0.xk3
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sun, 08 Nov 2015 10:49:54 -0800
+
+thunderbird-solydxk-adjustments (38.3.0.xk2) debian; urgency=low
+
+  * 38.3.0.xk2
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sat, 07 Nov 2015 13:46:52 -0800
+
+thunderbird-solydxk-adjustments (38.3.0.xk1) debian; urgency=low
+
+  * 38.3.0.xk1
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sat, 07 Nov 2015 08:54:46 -0800
+
+thunderbird-solydxk-adjustments (38.3.0) debian; urgency=low
+
+  * 38.3.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Wed, 30 Sep 2015 04:30:05 -0700
+
+thunderbird-solydxk-adjustments (38.2.0ext) debian; urgency=low
+
+  * 38.2.0ext
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sun, 23 Aug 2015 07:23:06 -0700
+
+thunderbird-solydxk-adjustments (38.2.0) debian; urgency=low
+
+  * 38.2.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sat, 15 Aug 2015 04:44:28 -0700
+
+thunderbird-solydxk-adjustments (38.1.0) debian; urgency=low
+
+  * 38.1.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Sat, 15 Aug 2015 01:21:32 -0700
+
+thunderbird-solydxk-adjustments (38.0.1) debian; urgency=low
+
+  * 38.0.1
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Tue, 30 Jun 2015 00:48:45 -0700
+
+thunderbird-solydxk-adjustments (31.7.0) debian; urgency=low
+
+  * 31.7.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Thu, 21 May 2015 04:30:04 -0700
+
+thunderbird-solydxk-adjustments (31.6.0) debian; urgency=low
+
+  * 31.6.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Fri, 03 Apr 2015 04:30:04 -0700
+
+thunderbird-solydxk-adjustments (31.5.0) debian; urgency=low
+
+  * 31.5.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Thu, 26 Feb 2015 04:30:04 -0800
+
+thunderbird-solydxk-adjustments (31.4.0) debian; urgency=low
+
+  * 31.4.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Wed, 14 Jan 2015 04:30:02 -0800
+
+thunderbird-solydxk-adjustments (31.3.0) debian; urgency=low
+
+  * 31.3.0
+
+ -- Arjen Balfoort <arjenbalfoort@solydxk.com>  Wed, 03 Dec 2014 04:30:03 -0800
+
+thunderbird-solydxk-adjustments (31.2.0) debian; urgency=low
+
+  * 31.2.0
+
+ -- Schoelje <schoelje@solydxk.com>  Wed, 15 Oct 2014 04:30:05 -0700
+
+thunderbird-solydxk-adjustments (31.1.2) debian; urgency=low
+
+  * 31.1.2
+
+ -- Schoelje <schoelje@solydxk.com>  Thu, 25 Sep 2014 04:30:03 -0700
+
+thunderbird-solydxk-adjustments (31.1.1) debian; urgency=low
+
+  * 31.1.1
+
+ -- Schoelje <schoelje@solydxk.com>  Thu, 11 Sep 2014 04:30:03 -0700
+
+thunderbird-solydxk-adjustments (31.1.0) debian; urgency=low
+
+  * 31.1.0
+
+ -- Schoelje <schoelje@solydxk.com>  Thu, 04 Sep 2014 04:30:03 -0700
+
+thunderbird-solydxk-adjustments (31.0) debian; urgency=low
+
+  * 31.0
+
+ -- Schoelje <schoelje@solydxk.com>  Wed, 23 Jul 2014 04:00:03 -0700
+
+thunderbird-solydxk-adjustments (24.6.0) debian; urgency=low
+
+  * 24.6.0
+
+ -- Schoelje <schoelje@solydxk.com>  Wed, 11 Jun 2014 04:00:03 -0700
+
+thunderbird-solydxk-adjustments (24.5.0) debian; urgency=low
+
+  * 24.5.0
+
+ -- Schoelje <schoelje@solydxk.com>  Wed, 30 Apr 2014 06:22:42 -0700
+
+thunderbird-solydxk-adjustments (24.4.0) debian; urgency=low
+
+  * 24.4.0
+
+ -- Schoelje <schoelje@solydxk.com>  Thu, 20 Mar 2014 00:59:49 -0700
+
+thunderbird-solydxk-adjustments (24.3.0) debian; urgency=low
+
+  * 24.3.0
+
+ -- Schoelje <schoelje@solydxk.com>  Sun, 02 Mar 2014 08:39:45 +0100

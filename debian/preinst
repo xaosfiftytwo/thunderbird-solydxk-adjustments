@@ -1,0 +1,26 @@
+#!/bin/bash
+
+FTRAY='/etc/skel/.thunderbird/pjzwmea6.default/extensions/{9533f794-00b4-4354-aa15-c2bbda6989f8}.xpi'
+if [ -f $FTRAY ]; then
+    rm -v $FTRAY 2>/dev/null
+fi
+
+FTRAY='/etc/skel/.thunderbird/pjzwmea6.default/extensions/{9533f794-00b4-4354-aa15-c2bbda6989f8}/chrome/skin/linux'
+if [ -d $FTRAY ]; then
+    rm -rv $FTRAY 2>/dev/null
+fi
+
+QLS='/etc/skel/.thunderbird/pjzwmea6.default/extensions/{25A1388B-6B18-46c3-BEBA-A81915D0DE8F}.xpi'
+if [ -f $QLS ]; then
+    rm -v $QLS 2>/dev/null
+fi
+
+shopt -s extglob
+rm -v /etc/skel/.thunderbird/pjzwmea6.default/extensions/{9533f794-00b4-4354-aa15-c2bbda6989f8}/chrome/skin/!(*.css) 2>/dev/null
+shopt -u extglob
+
+SQL='/etc/skel/.thunderbird/pjzwmea6.default/extensions.sqlite'
+if [ -f $SQL ]; then
+    rm -v $SQL 2>/dev/null
+fi
+
